@@ -1,3 +1,9 @@
+//Jhon Alejandro Orobio Arce
+//201533627
+
+//Carolina Dorado Ruiz
+//201522589
+
 #include <dirent.h>
 #include <stdio.h>
 #include <stdlib.h>
